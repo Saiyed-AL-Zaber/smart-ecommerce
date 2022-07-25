@@ -1,0 +1,23 @@
+.categories img {
+  width: 100px;
+}
+.card-btn {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+}
+#contact-section{
+    margin-top: 60px !important;
+}
+
+.carousel-item:first-child{
+    background-color: #EED180;
+}
+.carousel-item:nth-child(2){
+    background-color: #B93160;
+}
+.carousel-item:last-child{
+    background-color: #D75281;
+}
